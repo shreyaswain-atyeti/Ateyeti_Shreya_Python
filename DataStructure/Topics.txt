@@ -1,6 +1,6 @@
 1.Lists: Creation, indexing, slicing, methods, comprehensions.
 
-2.Tuples: Immutable sequences.
+2.Tuples: Immutable sequences yet can be cange
 
 3.Sets: Unordered collections with unique elements.
 
