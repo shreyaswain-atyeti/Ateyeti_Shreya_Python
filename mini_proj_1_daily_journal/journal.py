@@ -39,6 +39,12 @@ def list_dates():
     for date in sorted(dates):
         print(date)
 
+def search_entries_by_date():
+    pass
+
+def delete_entries_by_date():
+    pass
+
 def main():
     ensure_data_dir()
     while True:
